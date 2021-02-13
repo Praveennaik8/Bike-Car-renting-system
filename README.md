@@ -1,0 +1,2 @@
+# Bike-Car-renting-system
+Designing an application to provide easy interface for the users to book the car or bike and for admin to handle the rental system .The customer can rent car and bike based on the make and model. The rental company charges certain amount based on number of days car/bike is been booked by the customer. It also maintains the record of all the customers and also all the exception are handled.
